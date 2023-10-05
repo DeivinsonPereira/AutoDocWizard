@@ -1,2 +1,2 @@
 # AutoDocWizard
-Esse programa transforma os dados de boletos pdf (escolhidos pelo usuário) em informações dentro de uma planilha.
+Esse programa transforma arquivos pdf em arquivos docx(word).
